@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tituriols 2</string>
+    <string name="msg1">I am the text message 1</string>
+    <string name="msg2">I am the text message 2</string>
+    <string name="msg3">Here I am the msg 3</string>
+    <string name="msg4"><![CDATA[<<**>>]]></string>
+</resources>
